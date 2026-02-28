@@ -1,5 +1,5 @@
 ## Hi there! / Olá! 👋
-👾Eu sou Thomas Bayão Mathias, tenho 16 anos e estou cursando o **2° ano do Ensino Médio** na rede SESI/SENAI Petrópolis. 
+👾Eu sou Thomas Bayão Mathias, tenho 17 anos e estou cursando o **3° ano do Ensino Médio** na rede SESI/SENAI Petrópolis. 
 
 👻Tenho interesse na área de TI e em aprender as linguagens de programação.
 
